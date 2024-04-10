@@ -1,5 +1,7 @@
 # Design a 3 Tier AWS VPC with NAT Gateways using Terraform
 
+![image](https://github.com/GovindSingh9447/VPC-3-Tier-Architecture-Design-Using-Terraform/assets/76457594/0ff30863-a513-4d92-8542-ba96c8a6b9c7)
+
 
 ## Introduction
 - Understand about Terraform Modules
